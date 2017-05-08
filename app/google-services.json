@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579933066555",
+    "firebase_url": "https://tdcexemplo.firebaseio.com",
+    "project_id": "tdcexemplo",
+    "storage_bucket": "tdcexemplo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579933066555:android:d9dc2c80b444650b",
+        "android_client_info": {
+          "package_name": "com.oceanbrasil.tdcexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579933066555-23ni3ocsrbtfr8rfsk1ottvh1jo3temf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvokrf1dAvOKjdsBfJNVtnv_tFjhOba0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

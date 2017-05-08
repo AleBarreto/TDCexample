@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TDC example</string>
+    <string name="button_agrupamento">Exemplo Agrupamento</string>
+    <string name="button_geofire">Exemplo GeoFire</string>
+    <string name="button_estilo">Exemplo Estilo Map</string>
+
+    <string name="key_maps">AIzaSyD3qd6MH-IbSe1xe7aYo1-1dfX2s6QgKGc</string>
+
+</resources>
