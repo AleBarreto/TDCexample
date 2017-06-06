@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //teste thiago
+
     public void clickAgrupamento(View view) {
         abrirActivity(ActivityAgrupamento.class); // Tela de agrupamento
     }
